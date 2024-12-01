@@ -119,12 +119,8 @@ This project can be extended in the following ways:
 4. **Visualization**:
    - Add more visualizations, such as decision boundaries or feature importance.
 
-## Author and License
 
 ### Author
 - **Rhythm Winicour-Freeman**  
-- GitHub: [Your GitHub Profile](https://github.com/rhythmw9)  
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/rhythm-winicour-freeman-975b74289/)
-
-### License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+- GitHub: (https://github.com/rhythmw9)  
+- LinkedIn: (https://www.linkedin.com/in/rhythm-winicour-freeman-975b74289/)
